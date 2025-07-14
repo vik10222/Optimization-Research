@@ -1,0 +1,6 @@
+[submodule "Reshaped_muon"]
+	path = Reshaped_muon
+	url = git@github.com:vik10222/Reshaped_muon.git
+[submodule "Gradient-descent-cutting-plane"]
+	path = Gradient-descent-cutting-plane
+	url = git@github.com:vik10222/Gradient-descent-cutting-plane.git
