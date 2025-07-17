@@ -4,3 +4,6 @@
 [submodule "Gradient-descent-cutting-plane"]
 	path = Gradient-descent-cutting-plane
 	url = git@github.com:vik10222/Gradient-descent-cutting-plane.git
+[submodule "synthetic-data"]
+	path = synthetic-data
+	url = git@github.com:nathan-ferchtandiker/synthetic-data-generation-for--optimization.git
